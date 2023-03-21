@@ -1,4 +1,4 @@
-# Project 3 Game Secrets
+# Game Secrets
 A web application that allows users to share game secrets amongst each other
 
 ## Table of Contents
