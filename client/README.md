@@ -37,11 +37,7 @@ We used Mongo DB to setup the server for our app, Express.js as the middleware a
 
 ## Screenshots
 ---
-![Responsive](/client/src/assets/images/responsive-game.png)
-![Home](/client/src/assets/images/login-game.png)
-![Search](/client/src/assets/images/search-game.png)
-![Feed](/client/src/assets/images/feed-game.png)
-
+![Responsive](/assets/images/comments-game.png)
 
 
 ## Sources
@@ -67,6 +63,11 @@ See deployed site here: http://game-secrets.herokuapp.com/
 
 See repository here: https://github.com/dylanjacobb/game-secrets
 
+## Credits
+---
+- Course Instructor:  Anthony  |  TA: Max
+- Class Activities & Mini Project
+
 ## Contributing
 ---
 
@@ -77,3 +78,6 @@ John Kim: [@mother426](https://github.com/mother426)
 Dylan Jacob: [@dylanjacobb](https://github.com/dylanjacobb)
 
 Taylor Weeks: [@tweeks07](https://github.com/tweeks07)
+
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
