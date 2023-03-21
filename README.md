@@ -54,7 +54,7 @@ We used Mongo DB to setup the server for our app, Express.js as the middleware a
 - REACT JS
 - BOOTSTRAP
 - MONGO DB
-- JAVA SCRIPT
+- JAVASCRIPT
 - CSS
 - API Fetch
 - CLOUDINARY
